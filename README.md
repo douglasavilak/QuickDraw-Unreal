@@ -1,4 +1,4 @@
-# QuickDraw
+# QuickDraw - Unreal Engine 2D
  This is a Unreal Engine project made for studying purposes
 
  This project was based on "The Ultimate Unreal Engine 2D Game Development Course" lessons
